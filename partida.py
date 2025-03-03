@@ -154,7 +154,6 @@ class Partida:
             if self.dados.dobles_consecutivos == 0:
                 break
         
-        print("hola")
         self.siguiente_turno()
 
 
